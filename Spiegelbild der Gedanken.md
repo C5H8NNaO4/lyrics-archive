@@ -2,9 +2,8 @@
 
 ---
 
-<video width="320" height="240" controls>
-  <source src="https://strapi.javascript.moe/uploads/wenndumorgens_94908c585b.mp4" type="video/mp4">
-</video>
+![cover image](https://strapi.javascript.moe/uploads/wenndumorgens_07285f7cde_d49a8f4e10.jpeg)
+
 
 ---
 
