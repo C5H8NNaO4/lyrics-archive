@@ -3,7 +3,7 @@
 
 ---
 
-![cover image](https://strapi.javascript.moe%2Fuploads%2Fgenie_66b909d528_f7ddfbac17.jpeg)
+![cover image](https://strapi.javascript.moe/uploads/genie_66b909d528_f7ddfbac17.jpeg)
 
 ---
 
