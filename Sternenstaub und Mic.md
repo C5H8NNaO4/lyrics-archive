@@ -2,6 +2,10 @@
 
 ---
 
+![cover image](https://strapi.javascript.moe/uploads/columbiansnow_65d354bc66_7f04e462ce.jpeg)
+
+---
+
 In Freestyles vereint – die Bois chilln.
 Jeden Dienstag im Keller – basteln Beats, reden
 ins Mic – lyrische Meister linguistischer Styles,
